@@ -1,0 +1,7 @@
+login anonymous
+force_install_dir ./server-files
+app_update 90
+app_update 90
+app_update 90 validate
+app_update 90 validate
+quit
